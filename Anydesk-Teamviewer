@@ -1,13 +1,21 @@
+/ip firewall address-list remove [find list="Anydesk&TeamViewer"]
 /ip/firewall/address-list
+add address=18.165.140.20 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=20.50.2.7 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=37.59.29.33 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=49.12.130.235 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=49.12.130.236 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.68.153.120 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.89.98.178 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.89.98.179 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.91.80.48 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.91.80.121 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.178.65.178 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.178.65.231 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.178.91.232 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.178.91.233 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.178.91.234 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=51.178.91.235 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.195.5.155 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.195.5.156 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=51.195.5.159 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
@@ -90,7 +98,6 @@ add address=217.146.21.128/28 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=217.146.23.128/28 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=208.115.231.202 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=208.115.231.18 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=18.165.140.20 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=51.91.80.48 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=51.89.98.179 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=51.89.98.178 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+
+
+
