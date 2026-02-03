@@ -29,23 +29,6 @@ add address=185.102.219.81 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=185.229.190.236 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=185.229.191.39 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=185.229.191.44 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.14 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.26 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.34 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.38 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.102 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.118 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.126 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.134 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.138 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.154 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.166 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.174 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.182 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.186 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.190 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.198 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.210 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=34.17.240.0/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=34.65.242.96/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=34.88.210.80/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
@@ -86,6 +69,26 @@ add address=188.172.235.128/27 comment=Anydesk&TeamViewer list=Anydesk&TeamViewe
 add address=188.172.245.128/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=188.172.246.160/28 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=188.172.254.128/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.18 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.14 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.26 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.34 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.38 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.102 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.118 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.126 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.134 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.138 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.146 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.154 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.166 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.174 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.182 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.186 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.190 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.198 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.202 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+add address=208.115.231.210 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=213.227.162.96/27 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=213.227.168.128/27 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=213.227.185.128/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
@@ -96,8 +99,7 @@ add address=217.146.13.128/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=217.146.14.128/29 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=217.146.21.128/28 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
 add address=217.146.23.128/28 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.202 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
-add address=208.115.231.18 comment=Anydesk&TeamViewer list=Anydesk&TeamViewer
+
 
 
 
